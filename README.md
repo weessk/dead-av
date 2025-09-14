@@ -36,7 +36,7 @@ kills 100+ security processes continuously:
 * Analysis tools
 * EDR/SIEM agents (Elastic, Splunk, Tanium, etc)
 
-basically… if it moves and smells like protection
+basically… if it moves and smells like protection, it kills it
 
 ---
 
