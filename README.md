@@ -11,7 +11,7 @@ based on [BdApiUtil-Killer](https://github.com/BlackSnufkin/BYOVD/tree/main/BdAp
 
 ```bash
 # clone it
-git clone https://github.com/weessk/dead-av.git && cd dead-av
+git clone https://github.com/nw8g/dead-av.git && cd dead-av
 
 # build
 make
@@ -74,10 +74,4 @@ make clean      # clean files
 
 ---
 
-## disclaimer
-
-educational/red team testing only
-unauthorized use = your problem, not mine 
-
----
 
